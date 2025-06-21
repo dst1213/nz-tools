@@ -1,4 +1,4 @@
-# Nezha URL Tools - Web Title & Link Copier
+# Nz URL Tools - Web Title & Link Copier
 
 [中文](README.md) | English
 
