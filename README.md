@@ -1,4 +1,7 @@
-# 哪小吒URL工具 - 网页标题链接复制器
+# 🚀 Copy All Urls Pro
+Professional Web Information Manager
+
+One-click copy, batch management, cloud sync - Make information collection simple and efficient
 
 [English](README_EN.md) | 中文
 
